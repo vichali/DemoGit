@@ -7,7 +7,8 @@ public class GitTest_2 {
 	
 	
 	// cargar fundamentos.*
-	
+	// url a cambiar
+
 	public void control() {
 	
 		int cambio = 20;
