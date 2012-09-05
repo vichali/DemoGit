@@ -6,6 +6,8 @@ public class GitTest_2 {
 	private int codigo;
 	
 	public void control() {
+	
+		int cambio = 20;
 		
 	}
 	
